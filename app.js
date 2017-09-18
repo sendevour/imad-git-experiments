@@ -1,1 +1,2 @@
+function();
 console.log("hello");
