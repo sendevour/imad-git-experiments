@@ -6,3 +6,4 @@ finally done with new feature
 console.log("Bug fix here");
 >>>>>>> master
 console.log("hello");
+hello
